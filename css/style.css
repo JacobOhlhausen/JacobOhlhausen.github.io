@@ -91,6 +91,7 @@ a:focus, a:hover {
 }
 .banner-info-w3l h2 {
     color: #fff;
+    background-color: rgba(0,0,0,0.5);
     font-size: 2.5em;
     text-align: center;
     margin: 0;
@@ -100,6 +101,7 @@ a:focus, a:hover {
 }
 .banner-info-w3l h3 {
     color: #fff;
+    background-color: rgba(0,0,0,0.5);
     font-size: 1em;
     text-align: center;
     font-weight: 100;
